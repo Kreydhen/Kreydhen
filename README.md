@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am a university student pursuing a Bachelor's degree in Information Technology, currently in my second year. I am passionate about
+I am a second year university student pursuing a Bachelor's degree in Information Technology. I am passionate about
 continuous learning and applying my knowledge to projects that foster creativity and productivity. I have experience programming in 
 JavaScript, Python, HTML, CSS, and MySQL, and I am currently working on personal projects, such as developing an interactive website about anime. 
 My goal is to grow as a professional, contribute to innovative solutions, and continue expanding my technical skills.
